@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋! My name is Anton Rezin and I'm a Junior Software Engineer, from Helsinki Metropolitan Area.</h1>
+<h1 align="center">Hi 👋!<br>My name is Anton Rezin and I'm a Junior Software Engineer,<br>from Helsinki Metropolitan Area.</h1>
 
 ###
 
@@ -41,7 +41,7 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/docker/2496ED" height="30" alt="docker logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="30" alt="amazonwebservices logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="30" alt="amazonwebservices logo"  />
 </div>
 
 ###
