@@ -1,4 +1,4 @@
-<h1 align="center">Hi!<br>My name is Anton Rezin and I'm a Junior Software Engineer,<br>from Helsinki Metropolitan Area.</h1>
+<h1 align="center">Hi!<br>My name is Anton Rezin and I'm a Junior Software Engineer,<br>from the Helsinki Metropolitan Area with a passion for coding.</h1>
 
 ###
 
