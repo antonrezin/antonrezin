@@ -51,11 +51,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=antonrezin&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="110" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=antonrezin&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="110" alt="streak graph"  />
 </div>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/antonrezin/count.svg?"  />
-</div>
-
-###
