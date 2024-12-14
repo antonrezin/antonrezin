@@ -1,4 +1,4 @@
-<h1 align="center">Hi!<br>My name is Anton Rezin.<br>I'm a Junior Software Developer<br>from the Helsinki Metropolitan Area<br>with a passion for coding.</h1>
+<h1 align="center">Hi!<br>My name is Anton Rezin.<br>I'm an Aspiring Full Stack Developer<br>from the Helsinki Metropolitan Area<br>with a passion for coding.</h1>
 
 ###
 
