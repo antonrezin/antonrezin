@@ -1,14 +1,4 @@
-<h1 align="center">Hi!<br>My name is Anton Rezin.<br>I'm an Aspiring Full Stack Developer<br>from the Helsinki Metropolitan Area<br>with a passion for coding.</h1>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=antonrezin&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=false" height="110" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=antonrezin&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="110" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=antonrezin&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="110" alt="streak graph"  />
-</div>
-
-###
+<h1 align="center">Hi!<br><br>My name is Anton Rezin.<br>I'm an Aspiring Full Stack Developer<br>from the Helsinki Metropolitan Area<br>with a passion for coding.<br><br></h1>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
@@ -38,6 +28,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/jenkins/D24939" height="30" alt="jenkins logo"  />
   <img width="12" />
