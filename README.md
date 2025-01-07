@@ -1,21 +1,18 @@
 <h2 align="center">
-  Hello! 👋<br><br>
-</h2>
+Hello! 👋<br><br>
 
-<h3 align="center">
-  I'm Anton Rezin, an aspiring Full Stack Developer based in the Helsinki Metropolitan Area, with a strong passion for creating impactful solutions through coding 💻.
-  <br/>
-  I am continuously working to improve my skills and take on new challenges in software development 🧑‍💻.
-  <br/>
-  My goal is to contribute to meaningful projects, collaborate with innovative teams, and grow as a professional in the tech industry 💼.<br><br>
+I'm Anton Rezin, an aspiring Full Stack Developer<br/>based in the Helsinki Metropolitan Area,<br/>with a strong passion for creating<br/>impactful solutions through coding 💻.
+<br/>
+<br/>
+I am continuously working to improve my skills and<br/>take on new challenges in software development 🧑‍💻.<br/>
+My goal is to contribute to meaningful projects,<br/>collaborate with innovative teams, and grow<br/>as a professional in the tech industry 💼.<br><br>
   
-  🚀 **Currently open to full-time opportunities!**<br>
-  I am actively seeking a Full Stack Developer position, starting immediately, where I can apply my skills, learn from new experiences, and make a meaningful contribution 🌟.<br><br>
-</h3>
+🚀 **Currently open to full-time opportunities!**<br>
+I am actively seeking a Full Stack Developer position<br/>and am available to start immediately, where<br/>I can apply my skills, learn from new experiences,<br/>and make a meaningful contribution 🌟.<br><br>
 
-<h2 align="center">
-  Best regards,<br>
-  Anton Rezin
+Best Regards,
+<br/>
+Anton Rezin
 </h2>
 
 ###
