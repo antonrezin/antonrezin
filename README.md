@@ -1,4 +1,30 @@
-<h1 align="center">Hi!<br><br>My name is Anton Rezin.<br>I'm an Aspiring Full Stack Developer<br>from the Helsinki Metropolitan Area<br>with a passion for coding.<br><br></h1>
+<h2 align="center">
+  Hello! 👋<br><br>
+</h2>
+
+<h3 align="center">
+  I'm Anton Rezin, an aspiring Full Stack Developer based in the Helsinki Metropolitan Area, with a strong passion for creating impactful solutions through coding 💻.
+  <br/>
+  I am continuously working to improve my skills and take on new challenges in software development 🧑‍💻.
+  <br/>
+  My goal is to contribute to meaningful projects, collaborate with innovative teams, and grow as a professional in the tech industry 💼.<br><br>
+  
+  🚀 **Currently open to full-time opportunities!**<br>
+  I am actively seeking a Full Stack Developer position, starting immediately, where I can apply my skills, learn from new experiences, and make a meaningful contribution 🌟.<br><br>
+</h3>
+
+<h2 align="center">
+  Best regards,<br>
+  Anton Rezin
+</h2>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=antonrezin&locale=en&hide_title=false&layout=compact&card_width=500&langs_count=10&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
