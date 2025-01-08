@@ -1,4 +1,4 @@
-<h2 align="center">
+<h3 align="center">
 Hello! 👋<br><br>
 
 I'm Anton Rezin, an aspiring Full Stack Developer<br/>based in the Helsinki Metropolitan Area,<br/>with a strong passion for creating<br/>impactful solutions through coding 💻.
