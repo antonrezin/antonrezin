@@ -1,22 +1,3 @@
-<h3 align="center">
-Hello! 👋<br><br>
-
-I'm Anton Rezin, an aspiring Full Stack Developer<br/>based in the Helsinki Metropolitan Area,<br/>with a strong passion for creating<br/>impactful solutions through coding 💻.
-<br/>
-<br/>
-I am continuously working to improve my skills and<br/>take on new challenges in software development 🧑‍💻.<br/>
-My goal is to contribute to meaningful projects,<br/>collaborate with innovative teams, and grow<br/>as a professional in the tech industry 💼.<br><br>
-  
-🚀 **Currently open to full-time opportunities!**<br>
-I am actively seeking a Full Stack Developer position<br/>and am available to start immediately, where<br/>I can apply my skills, learn from new experiences,<br/>and make a meaningful contribution 🌟.<br><br>
-
-Best Regards,
-<br/>
-Anton Rezin
-</h2>
-
-###
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=antonrezin&locale=en&hide_title=false&layout=compact&card_width=500&langs_count=10&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
